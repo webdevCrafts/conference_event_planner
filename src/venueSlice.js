@@ -17,7 +17,7 @@ export const venueSlice = createSlice({
       quantity: 0,
     },
     {
-      img: "https://images.unsplash.com/photo-1764810815228-b7f9432eec5c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      img: "https://images.unsplash.com/photo-1777326587610-1ddcce610a5c?q=80&w=736&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       name: "Presentation Room (Capacity:50)",
       cost: 700,
       quantity: 0,
